@@ -6,7 +6,9 @@ public class Tamil {
 	}
 	private void classicalLang() {
 		System.out.println("classicalLang introduced:2004");
+		System.out.println("2nd classicallang:Sanscrit");
 	}
+	
 	
 	
 
